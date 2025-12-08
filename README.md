@@ -9,6 +9,7 @@ Hello, my name is Luka Rot. I am doing my 3rd year at ERS SCNG to become a compu
   - CSS
   - PowerShell
   - C++
+  - SQL
 
 I like to play chess ♟️
 
