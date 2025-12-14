@@ -1,15 +1,36 @@
-## Who am i?
-Hello, my name is Luka Rot. I am doing my 3rd year at ERS SCNG to become a computer technician.
-<br>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/55c3f76b-8bf1-4638-934a-02a8e1f20d30" />
+<!-- GIF at the top -->
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
 
-## I am currently learning
-  - Java
-  - HTML
-  - CSS
-  - PowerShell
-  - C++
-  - SQL
+<h1 align="center">Hi, I'm Luka 👋</h1>
 
-I like to play chess ♟️
+<p align="center">
+  <b>Computer Technician Student • ERS ŠCNG • 3rd Year</b>
+</p>
 
+---
+
+## 👨‍💻 Who am I?
+
+My name is Luka Rot.  
+I’m currently in my 3rd year at ERS ŠCNG, studying to become a computer technician.
+
+I enjoy learning how things work under the hood — from low-level logic to higher-level applications — and improving step by step.
+
+---
+
+## 🚀 Currently learning
+
+- ☕ **Java**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **PowerShell**
+- 🧠 **C++**
+
+---
+
+## ♟️ Fun fact
+
+I like to play chess  
+*(still blundering, but with confidence)*
+
+---
