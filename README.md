@@ -32,5 +32,3 @@ I enjoy learning how things work under the hood — from low-level logic to high
 
 I like to play chess  
 *(still blundering, but with confidence)*
-
----
