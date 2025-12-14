@@ -13,7 +13,7 @@
 My name is Luka Rot.  
 I’m currently in my 3rd year at ERS ŠCNG, studying to become a computer technician.
 
-I enjoy learning how things work under the hood — from low-level logic to higher-level applications — and improving step by step.
+I enjoy learning how things work under the hood - from low-level logic to higher-level applications - and improving step by step.
 
 ---
 
