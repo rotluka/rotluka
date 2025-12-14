@@ -1,4 +1,3 @@
-<!-- GIF at the top -->
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
 
 <h1 align="center">${\color{red}Hi, \space I'm \space Luka}$👋</h1>
