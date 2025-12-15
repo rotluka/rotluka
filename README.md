@@ -19,11 +19,11 @@ I enjoy learning how things work under the hood - from low-level logic to higher
 
 ## 🚀 Currently learning
 
-- ☕ **Java**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ⚡ **PowerShell**
-- 🧠 **C++**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,cpp,vim,sql" />
+  </a>
+</p>
 
 ---
 
